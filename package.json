@@ -14,7 +14,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "nodemon": "^1.19.4",
-    "pug": "^2.0.4",
+    "pug": "^3.0.1",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
     "stylelint-config-airbnb": "^0.0.0"
